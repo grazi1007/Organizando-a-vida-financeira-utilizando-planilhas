@@ -52,6 +52,6 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 🛠️ Instruções de execução
 
-<a href="https://github.com/grazi1007/prompts-recipe-to-create-a-ebook/blob/aae5c4381a36d219a138c6cb9f26f11538ab0b45/.github/output/ebook%20%20a%20jornada%20para-o-Seu-Novo-Eu%20(2).pdf"> 📕Clique aqui para ler</a>
+<a href="https://github.com/grazi1007/Organizando-a-vida-financeira-utilizando-planilhas/blob/16118e2de17c4c119165e6843748cd3f3de12eba/assets/Podcast%20com%20capcut.mp4"> 📕Clique aqui para ler</a>
 
 ⌨️ com 💜 por [Graziela Ribeiro]
