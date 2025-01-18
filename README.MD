@@ -13,6 +13,6 @@
 
 ## 🛠️ Instruções de execução
 
-<a href="https://github.com/grazi1007/prompts-recipe-to-create-a-ebook/blob/aae5c4381a36d219a138c6cb9f26f11538ab0b45/.github/output/ebook%20%20a%20jornada%20para-o-Seu-Novo-Eu%20(2).pdf"> 📕Clique aqui para ler</a>
+<a href="https://github.com/grazi1007/Organizando-a-vida-financeira-utilizando-planilhas/blob/7bfa9ed845e4d6856b3c685bde9452468696a317/assets/Estrat%C3%A9gia%20para%20Guardar%20Dinheiro%20para%20um%20Carro%20Novo%20com%20basena%20an%C3%A1lise%20da%20planilha%20pelo%20chatgpt.pdf"> 📕Clique aqui para ler</a>
 
 ⌨️ com 💜 por [Graziela Ribeiro]
