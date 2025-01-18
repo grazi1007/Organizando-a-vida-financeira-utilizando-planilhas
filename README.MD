@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="https://github.com/grazi1007/Organizando-a-vida-financeira-utilizando-planilhas/blob/49f5fedc78f4ee5886f3592f0766e150f66b6bed/assets/Abertura%20podcast.pptx"
     width="300"
 />
 </p>
